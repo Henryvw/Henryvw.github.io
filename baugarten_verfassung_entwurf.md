@@ -1,8 +1,6 @@
 #Die Baugartenverfassung
 "Vigeamus ubi orta libertas"
 
-![Entscheidungsverfahren.png](Entscheidungsverfahren.png)
-
 ##Präämbel
 Kreative Köpfe Europa, erwachet! Wir Kreativitätshebammen gebären eine Gemeinschaft neuer Arbeitsformen, die die Arbeitswelt stürmen werden.
 
@@ -22,6 +20,8 @@ Der Moderator fängt die Versammlung an. Er wendet das folgende Protokoll an und
 5. Abmelden. Jeder Teilnehmer kann kurz etwas als Schlusswort äußern, z.B., "Ich mochte die Geschwindigkeit von diesem Treffen". 1 Minute.
  
 ##Konsens-basierte Entscheidungsverfahren
+![Entscheidungsverfahren.png](Entscheidungsverfahren.png)
+
 Welche mitreißenden Kräfte bringen uns in Schwung? Beziehungsweise wie treffen wir als Kollektiv Entscheidungen? 
 
 Wir wenden systemische Konsensfindung an, um Entscheidungen zusammen zu treffen, die auf unsere unterschiedlichen Stimmen vereinen, uns bewegen und den Schwungrad unserer gesammelten Kräften in Gang setzt.
