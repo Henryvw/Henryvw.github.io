@@ -14,7 +14,7 @@ Wir versammeln uns persönlich für 15-30 Minuten alle zwei Wochen am Mittwoch u
 Der Moderator fängt die Versammlung an. Er wendet das folgende Protokoll an und stellt die folgenden Fragen:
 
 1. Anmelden. "Wie geht's dir heute?" Jeder Teilnehmer hat 1 Minute, von sich selber zu erzählen.
-2. Nachrichten. "Wer hat heute Nachrichten bezüglich Baugarten?" Wer sie hat, kann sie kurz (Maximum 2 Minuten) erklären.
+2. Nachrichten. "Wer hat heute Nachrichten, entweder bezüglich deines Projekts oder Baugarten?" Wer sie hat, kann sie kurz (Maximum 2 Minuten) erklären.
 3. Der Moderator erklärt, welche Vorschläge nach ihrer 2-Wochen Diskussionszeit in Kraft treten und welche Mitglieder sie ins Leben rufen.
 4. Neue Vorschläge besprechen. Siehe "2 Schritt: Vorschlag bei Versammlung besprechen" für ein detailliertes Gesprächsprotokoll, in dem Fall von einem neuen oder laufenden Ausschussvorschlag.
 5. Abmelden. Jeder Teilnehmer kann kurz etwas als Schlusswort äußern, z.B., "Ich mochte die Geschwindigkeit von diesem Treffen". 1 Minute.
@@ -69,7 +69,8 @@ In dem Fall, dass es ein oder mehrere Einwände gibt, verpflichten sich die vern
 ####Konsens finden - durch Abstimmungsprotokoll
 Statt eines Ja/Nein-Abstimmungsverfahren -- die die Minderheitsstimmen überwinden und überhören -- verwenden wir ein systemisches Konsensfindungs-Protokoll, das in Loomio eingebaut ist, die auf die Stärke eines jeden Mitgliedes Vorschlagswiderstandes leitet.
 
-**Ja** (Loomio "Agree") - Ich will, dass wir diesen Vorschlag in Kraft tritt. Ich habe das gleiche Bedürfnis und ich beteilige mich, ihn ins Leben zu rufen. 
+**Ja** (Loomio "Agree") - Ich will, dass wir diesen Vorschlag in Kraft tritt. Ich habe das gleiche Bedürfnis und ich beteilige mich, ihn ins Leben zu rufen.
+
 **Sich Enthalten** (Loomio "Abstain") -  Ich erkläre mich einverstanden mit dem Ausschuss und ihren entsprechenden Vorschlag. Gleichzeitig betrifft mich der Vorschlag eben nicht, oder ich finde es nicht wichtig, oder ich beteilige mich nicht, ihn ins Leben zu rufen. Ich enthalte mich der Durchführung, aber ich trage sie mit. Ich respektiere die Entscheidung des Ausschusses. Wenn man innerhalb der zwei Wochen Kommentarfrist keine andere Stimme in Loomio angelegt hat, wird die Stimme automatisch als "Sich Enthalten" gemeldet.
 
 **Einwände**
