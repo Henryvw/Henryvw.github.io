@@ -83,4 +83,66 @@ Nachdem die zwei streitende Parteien eine Lösung gefunden haben, wird der Aussc
 ##Freies Denken, freies Dichten
 Der Anfang des Denkens ist Uneinigkeit. Gemeinschaften, die den Geist der aufgeschlossenen Anfragen und konstruktives Uneinigkeit nähern, erleben eine Blütezeit. Uneinigkeit, unabhängiges Urteil und die befragen Annahmen blühen innerhalb einer Umgebung diversen Ansichten und die größte Freiheit.
 
-Baugarten garantiert alle Genossenen die größtmögliche Freiheit, zu denken, sich zu äußern, zu schreiben, herauszufordern und zu befragen. Wir sind eine misstönende Sinfonie, ein aufeinanderprallendes Theater, ein College und ein Parlament des freien Denkens. 
+Baugarten garantiert alle Genossenen die größtmögliche Freiheit, zu denken, sich zu äußern, zu schreiben, herauszufordern und zu befragen. Wir sind eine misstönende Sinfonie, ein aufeinanderprallendes Theater, ein College und ein Parlament des freien Denkens.
+
+
+#-------------------------TO-DO-------------------------
+###Zukünftige Elemente und Fragen bezüglich der Verfassung
+
+
+
+##Abänderungsanträgen / Neue Abschnitten
+Wie machen wir Abänderungen?
+
+##Rechenschaftspflicht
+Wie beachten wir, dass wir unsere Aufgaben erledigen?
+Was machen wir, wenn jemand seine Aufgabe nicht erledigt?
+
+##Mitgliederschaft
+Wer ist Mitglieder?
+Wer hat Stimmrecht?
+Was bedeutet Mitgliederschaft?
+
+SIEHE LOOMIO Thread "Wer ist Baugartenmitglieder?" für einen Vorschlag, den diese Frage beantworten würde.
+
+#Neue Mitglieder
+###Suche / Bewerbung
+Was für eine Bewerbungsprozess wollen wir haben?
+Wer kann Mitglieder werden?
+Gibt es unterschiedliche Arten / Ebenen der Mitgliedschaft?
+Was ist unser platonisches Bild von dem best-möglichen Mitglieder und seine Charakterzüge?
+Wen (beziehungsweise welche Charakterzüge) wollen wir nicht als Mitglieder?
+Wie suchen wir die Mitglieder, die wir uns wünschen?
+###Nachdem sie eingetreten sind
+Was zeigen und erzählen wir dem neuen Mitglieder? Was ist wichtig ihm / ihr zu erklären?
+
+#Haushalt
+Wer bezahlt wieviel Geld? Wer bezahlt und wieviel Kaution?
+Wieviel Bezahlen 
+Wie geben wir Geld aus?
+Risiko und Besitzverhältnisse
+Wer ist im Vertrag?
+Wie wollen wir das Risiko verteilen?
+
+#Ausschüssen
+Wie/wann formen wir einen Ausschuss? (Während reguläres Treffen)
+
+
+#Abänderungsantrag
+Wie abändern wir diese Verfassung? 
+Wieviel Stimmen brauchen wir, um ihn mal zu ändern? (Vorschlag: 75% und keine Vetos)
+
+
+# Playful Sandbox
+- Was ist Arbeit?
+- Was willst du von der Arbeit?
+- Was willst du vom Leben? 
+- Was willst du vom Arbeitsleben?
+- Was willst du von der Community, worin wir unsere Arbeit leisten?
+- Mit welchen Leuten möchtest du arbeiten?
+- Was für eine Atmosphäre willst du um dich herum, wo du arbeitest?
+- Willst du Community in deinem Leben haben?
+- Willst du Kreativität, lernen, Austausch unterrichten, Wagnissen, Experimenten, Geld um dich herum?
+- SKETCH - draw a PIcTURe -inspired by DaVinci Sketche of machines and bodies and stuff!
+- Eine Ort wo du hingehen willst - wo du aufwächst und denkst - wie geil, dass ich dahin gehen kann! Ich bin so begeistert dahin zu gehen! Die positive Leute da zu sehen!
+- So eine Ort zu erschaffen wird schwierig. Es wird Geduld, scheitern, mut, Risiko, usw. Es kann sein, dass es in diesem Büro nicht stattfinden kann. Es kann sein, dass hier zu teuer ist. 
