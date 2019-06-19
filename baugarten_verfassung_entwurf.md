@@ -1,7 +1,7 @@
 #Die Baugartenverfassung
 "Vigeamus ubi orta libertas"
 
-##Präämbel
+##Präambel
 Kreative Köpfe Europa, erwachet! Wir Kreativitätshebammen gebären eine Gemeinschaft neuer Arbeitsformen, die die Arbeitswelt stürmen werden.
 
 Baugarten ist ein schwungvoller Garten des Bauens. Wir sind die Ort, zu der du, beim Aufwacken in der Morgendämmerung des Arbeitstages, hinzugehen _freust_. Wir sind ein selbst-regierter Raum der freien Wagnisse, des freien Erfindens, Erkundens, Experimentierens, Lernens, Unterrichtens, Denkens, Dichtens, Scheiterns und Siegens.
