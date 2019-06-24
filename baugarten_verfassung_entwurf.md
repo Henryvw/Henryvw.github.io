@@ -69,12 +69,15 @@ In dem Fall, dass es ein oder mehrere Einwände gibt, verpflichten sich die vern
 ####Konsens finden - durch Abstimmungsprotokoll
 Statt eines Ja/Nein-Abstimmungsverfahren -- die die Minderheitsstimmen überwinden und überhören -- verwenden wir ein systemisches Konsensfindungs-Protokoll, das in Loomio eingebaut ist, die auf die Stärke eines jeden Mitgliedes Vorschlagswiderstandes leitet.
 
+#####Einwilligung
+
 **Ja** (Loomio "Agree") - Ich will, dass wir diesen Vorschlag in Kraft tritt. Ich habe das gleiche Bedürfnis und ich beteilige mich, ihn ins Leben zu rufen.
 
 **Sich Enthalten** (Loomio "Abstain") -  Ich erkläre mich einverstanden mit dem Ausschuss und ihren entsprechenden Vorschlag. Gleichzeitig betrifft mich der Vorschlag eben nicht, oder ich finde es nicht wichtig, oder ich beteilige mich nicht, ihn ins Leben zu rufen. Ich enthalte mich der Durchführung, aber ich trage sie mit. Ich respektiere die Entscheidung des Ausschusses. Wenn man innerhalb der zwei Wochen Kommentarfrist keine andere Stimme in Loomio angelegt hat, wird die Stimme automatisch als "Sich Enthalten" gemeldet.
 
-**Einwände**
-**Nein, und...** (Loomio "Disagree") - Ich will nicht, dass wir diesen Vorschlag umsetzen. Obwohl ich möglicherweise den Bedürfnis des Ausschusses verstehe, habe ich noch einen Einwand bezüglich der Art und Weise, wie der Ausschuss diesen Vorschlag umsetzen möchte. **"Und... was wäre wenn"**: ich verpflichte mich eine Alternative vorzuschlagen. Beziehungsweise verpflichte ich mich durch das Anlegen dieser Stimme, zusammen mit dem Ausschuss eine kreative Alternativ-Lösung zu finden. 
+#####Einwände
+
+**Nein, und...** (Loomio "Disagree") - Ich will nicht, dass wir diesen Vorschlag umsetzen. Obwohl ich möglicherweise den Bedürfnis des Ausschusses verstehe, habe ich noch einen Einwand bezüglich der Art und Weise, wie der Ausschuss diesen Vorschlag umsetzen möchte. _"Und... was wäre wenn"_: ich verpflichte mich eine Alternative vorzuschlagen. Beziehungsweise verpflichte ich mich durch das Anlegen dieser Stimme, zusammen mit dem Ausschuss eine kreative Alternativ-Lösung zu finden. 
 
 Nachdem die zwei streitende Parteien eine Lösung gefunden haben, wird der Ausschuss den neuen, ergänzenden Vorschlag für eine zweite Kommentar-Runde frisch veröffentlichen.
 
