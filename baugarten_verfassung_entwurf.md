@@ -2,27 +2,29 @@
 "Vigeamus ubi orta libertas"
 
 ##Präambel
-Kreative Köpfe Europa, erwachet! Wir Kreativitätshebammen gebären eine Gemeinschaft neuer Arbeitsformen, die die Arbeitswelt stürmen werden.
+Kreative Köpfe Europas, erwachet! Wir Kreativitätshebammen gebären eine Gemeinschaft neuer Arbeitsformen, die die Arbeitswelt stürmen werden.
 
-Baugarten ist ein schwungvoller Garten des Bauens. Wir sind die Ort, zu der du, beim Aufwacken in der Morgendämmerung des Arbeitstages, hinzugehen _freust_. Wir sind ein selbst-regierter Raum der freien Wagnisse, des freien Erfindens, Erkundens, Experimentierens, Lernens, Unterrichtens, Denkens, Dichtens, Scheiterns und Siegens.
+Baugarten ist ein schwungvoller Garten des Bauens. Wir sind der Ort, auf den du dich in der Morgendämmerung deines Arbeitstages ---_freust_. Wir sind ein selbst-regierter Raum der freien Wagnisse, des freien Erfindens, Erkundens, Experimentierens, Lernens, Unterrichtens, Denkens, Dichtens, Scheiterns und Siegens.
 
-##Versammlung
+Dies sind unsere Grundsätze.
+
+##I. Versammlungsgrundsätze
 ###Versammlungsregelmäßigkeit
-Wir versammeln uns persönlich für 15-30 Minuten alle zwei Wochen am Mittwoch um 0900 Uhr, um gemeinsam über Entscheidungen zu debattieren.
+Wir treffen uns persönlich an jedem zweiten Mittwoch um 09:00 Uhr für 15-30 Minuten, um gemeinsam über Entscheidungen zu debattieren.
 
 ###Versammlungsprotokoll
-Der Moderator fängt die Versammlung an. Er wendet das folgende Protokoll an und stellt die folgenden Fragen:
+Der Moderator leitet die Versammlung. Er wendet das folgende Protokoll an und stellt die folgenden Fragen:
 
-1. Anmelden. "Wie geht's dir heute?" Jeder Teilnehmer hat 1 Minute, von sich selber zu erzählen.
-2. Nachrichten. "Wer hat heute Nachrichten, entweder bezüglich deines Projekts oder Baugarten?" Wer sie hat, kann sie kurz (Maximum 2 Minuten) erklären.
-3. Der Moderator erklärt, welche Vorschläge nach ihrer 2-Wochen Diskussionszeit in Kraft treten und welche Mitglieder sie ins Leben rufen.
-4. Neue Vorschläge besprechen. Siehe "2 Schritt: Vorschlag bei Versammlung besprechen" für ein detailliertes Gesprächsprotokoll, in dem Fall von einem neuen oder laufenden Ausschussvorschlag.
-5. Abmelden. Jeder Teilnehmer kann kurz etwas als Schlusswort äußern, z.B., "Ich mochte die Geschwindigkeit von diesem Treffen". 1 Minute.
+1. **Check In**. "Wie geht's jedem heute?" Jeder Teilnehmer hat 1 Minute Zeit, um von sich selbst zu erzählen.
+2. **Nachrichten**. "Wer hat heute Nachrichten, entweder bezüglich eines Projekts oder Baugarten?" Wer sie hat, kann sie kurz (maximal 2 Minuten) erklären.
+3. **Alte Vorschläge mitteilen**. Der Moderator erklärt, welche Vorschläge nach ihrer 2-Wochen Diskussionszeit in Kraft treten und welche Mitglieder sie ins Leben rufen.
+4. **Neue Vorschläge besprechen.** Siehe "II. Konsens-basiertes Entscheidungsverfahren" für ein detailliertes Gesprächsprotokoll, für den Fall eines neuen oder laufenden Ausschussvorschlags.
+5. **Check Out.** Jeder Teilnehmer kann für circa 1 Minute kurz etwas als Schlusswort äußern.
  
-##Konsens-basierte Entscheidungsverfahren
+##II. Konsens-basiertes Entscheidungsverfahren
 ![Entscheidungsverfahren.png](Entscheidungsverfahren.png)
 
-Welche mitreißenden Kräfte bringen uns in Schwung? Beziehungsweise wie treffen wir als Kollektiv Entscheidungen? 
+Welche mitreißenden Kräfte bringen uns in Schwung? Wie treffen wir uns beziehungsweise als Kollektiv Entscheidungen? 
 
 Wir wenden systemische Konsensfindung an, um Entscheidungen zusammen zu treffen, die auf unsere unterschiedlichen Stimmen vereinen, uns bewegen und den Schwungrad unserer gesammelten Kräften in Gang setzt.
 
