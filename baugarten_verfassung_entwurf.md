@@ -41,18 +41,21 @@ Wir verwenden Loomio aus zwei Gründen:
 Grund #1: Um eine Aufzeichnung unserer Entscheidungen und Diskussionen zu erstellen.
 Grund #2: Durch Loomio haben auch physisch abwesende Baugarten-Mitglieder die Möglichkeit, am Entscheidungsverfahren mitzuwirken.
 
-1. Auf Loomio ein Thread Erschaffen
-2. Auf Loomio ein Vorschlag auf dem Thread Erstellen
-3. Über die Slack "Herrschaft"-Kanäle sehen die Baugartengenosseninnen den neuen Vorschlag an. Dazu schreiben sie darüber ihre Kommentaren.
+####Arbeitsschritte in Loomio
+1. Erstellung eines Threads
+2. Erstellung eines Vorschlags innerhalb des Threads
+3. Über die Slack "Herrschaft"-Kanäle sehen deine Baugartengenosseninnen den neuen Vorschlag an. Sie ergänzen den Vorschlag durch ihre Fragen und/oder Bedenken.
 
-###2. Schritt: Vorschlag bei Versammlung besprechen
-Der zweite und letzte Schritt, damit ein Ausschuss einen Vorschlag ins Leben ruft, ist, ihn in einer persönlichen Baugartenversammlung zu unterbreiten. Dafür gibt es der folgende Gesprächsordnung:
+###2. Schritt: Besprechung des Vorschlags in der Versammlung
+Der zweite und letzte Schritt des Ausschusses, ist den Vorschlag einer persönlichen Baugartenversammlung zu unterbreiten. Dafür gibt es die folgende Gesprächsordnung:
 
-1. Vorschlag Präsentieren - Der Ausschuss beschreibt das Problem, das er sah, und die Lösung, die er vorschlägt
-2. Fragen klären - Jeder kann Fragen stellen. Der Ausschuss kann antworten
-3. Reaktionsrunde - Jede Person kann auf den Vorschlag reagieren, wie sie es für richtig hält. Keine Diskussion oder Antworten
-4. Abänderung und Erläuterung - Der Ausschuss kann optional die Absicht klären oder den Vorschlag basierend auf den Reaktionen ändern. Keine Diskussion erlaubt
-5. Loomio Abstimmungs- und Einwandsrunde - Der Moderator liest die so weit angemeldete Loomio-Abstimmung (siehe die vier mögliche Stimmen unten). Mitglieder, die einen Einwand gemeldet haben, erklären ihre Einwände und was sie mit dem Ausschuss machen, um zusammen eine kreative Lösung zu finden. Es gibt keine Diskussion, es sei denn wenn ein Mitglieder ein Veto angelegt hat. In dem Fall prüfen alle Mitglieder zusammen, ob das Veto gerechtfertigt ist. Es gibt danach drei Möglichkeiten:
+REVIEWED UNTIL HERE FOR GERMAN GRAMMAR EDITS
+
+1. **Vorschlag Präsentieren** - Der Ausschuss beschreibt das Problem, das er sah, und die Lösung, die er vorschlägt
+2. **Fragen klären** - Jeder kann Fragen stellen. Der Ausschuss kann antworten
+3. **Reaktionsrunde** - Jede Person kann auf den Vorschlag reagieren, wie sie es für richtig hält. Keine Diskussion oder Antworten
+4. **Abänderung und Erläuterung** - Der Ausschuss kann optional die Absicht klären oder den Vorschlag basierend auf den Reaktionen ändern. Keine Diskussion erlaubt
+5. **Loomio Abstimmungs- und Einwandsrunde** - Der Moderator liest die so weit angemeldete Loomio-Abstimmung (siehe die vier mögliche Stimmen unten). Mitglieder, die einen Einwand gemeldet haben, erklären ihre Einwände und was sie mit dem Ausschuss machen, um zusammen eine kreative Lösung zu finden. Es gibt keine Diskussion, es sei denn wenn ein Mitglieder ein Veto angelegt hat. In dem Fall prüfen alle Mitglieder zusammen, ob das Veto gerechtfertigt ist. Es gibt danach drei Möglichkeiten:
 
 #####Das Veto ist gerechtfertigt 
 Wenn Mitglieder dieses Veto gerechtfertigt finden, dann ist der Vorschlag abgelehnt. Der Ausschuss kann natürlich sich noch ein mal treffen, um einen neuen Vorschlag, der das Veto anspricht, neu zu formulieren.
