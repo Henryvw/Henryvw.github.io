@@ -1,4 +1,5 @@
 #Die Baugartenverfassung
+
 "Vigeamus ubi orta libertas"
 
 ##Präambel
