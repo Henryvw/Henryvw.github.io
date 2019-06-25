@@ -24,25 +24,25 @@ Der Moderator leitet die Versammlung. Er wendet das folgende Protokoll an und st
 ##II. Konsens-basiertes Entscheidungsverfahren
 ![Entscheidungsverfahren.png](Entscheidungsverfahren.png)
 
-Welche mitreißenden Kräfte bringen uns in Schwung? Wie treffen wir uns beziehungsweise als Kollektiv Entscheidungen? 
+Welche mitreißenden Kräfte bringen uns in Schwung? Wie treffen wir als Kollektiv Entscheidungen, die diese Kräfte entzünden? 
 
-Wir wenden systemische Konsensfindung an, um Entscheidungen zusammen zu treffen, die auf unsere unterschiedlichen Stimmen vereinen, uns bewegen und den Schwungrad unserer gesammelten Kräften in Gang setzt.
+Wir wenden systemische Konsensfindung an, um gemeinsame Entscheidungen zu treffen, die unsere unterschiedlichen Stimmen vereinen, uns bewegen und das Schwungrad unserer gesammelten Kräften in Gang setzt.
 
 ####Ausschüsse
-Wenn wir eine Verbesserungsmöglichkeit entdecken, dann bilden wir einen Ausschuss, um diese Frage zu erkunden. Der Ausschuss veröffentlicht im Loomio Tool (siehe unten) einen Vorschlag.
+Wenn wir eine Verbesserungsmöglichkeit entdecken, bilden wir einen Ausschuss, um diese Chance zu erkunden. Der Ausschuss veröffentlicht im Loomio Tool (siehe unten) einen Vorschlag.
 
-Nachdem das Baugartenkollektiv den Vorschlag entweder ablehnt oder dieser in Kraft tritt -- und der Ausschuss und Ja-stimmenden Mitglieder die entsprechenden Projektaufgaben erledigt haben -- löst sich der Ausschuss auf.
+Nachdem das Baugartenkollektiv den Vorschlag entweder ablehnt oder dieser in Kraft tritt -- und der Ausschuss sowie die Ja-stimmenden Baugarten-Mitglieder die entsprechenden Projektaufgaben erledigt haben -- löst sich der jeweilige Ausschuss auf.
 
-###1. Schritt: Vorschläge Online teilen im Slack mit Loomio
-Ein Ausschuss hat zwei Schritte, um einen Vorschlag in Schwung zu bringen. Der erste Schritt ist, den Vorschlag auf dem Online-Werkzeug "Loomio" als "Thread" zu verteilen. Beim Loomio können alle Baugarten-Mitglieder den Vorschlag für **zwei Wochen** ansehen, befragen und kritisieren. Als "Thread" hat der Ausschuss mehrere Polls und Abstimmungswerkzeuge, um Einsprüche und mögliche Übereinstimmungen zu einzuholen.
+###1. Schritt: Vorschläge online im Slack mit Loomio teilen
+Ein Ausschuss hat zwei Schritte, um einen Vorschlag in Schwung zu bringen. Der erste Schritt ist, den Vorschlag auf dem Online-Tool "Loomio" als "Thread" einzustellen. Bei Loomio können alle Baugarten-Mitglieder den Vorschlag für **zwei Wochen** ansehen, hinterfragen und bedenken. Als "Thread" hat der Ausschuss mehrere Abstimmungsmethoden, um Fragen und Bedenken zu würdigen.
 
-Aus zwei Gründen verwenden wir Loomio:
+Wir verwenden Loomio aus zwei Gründen:
 
-Grund #1: Um eine Aufzeichnung von unserer Entscheidungen und Diskussion zu erschaffen.
-Grund #2: Denn es kommt vor, dass das ein oder andere Baugartenmitglieder am Mittwoch bei der persönlichen Versammlung fehlt. Durch Loomio haben auch diese Mitglieder die Gelegenheit, Vorschläge anzusehen.
+Grund #1: Um eine Aufzeichnung unserer Entscheidungen und Diskussionen zu erstellen.
+Grund #2: Durch Loomio haben auch physisch abwesende Baugarten-Mitglieder die Möglichkeit, am Entscheidungsverfahren mitzuwirken.
 
 1. Auf Loomio ein Thread Erschaffen
-2. Auf Loomio ein Vorschlag auf dem Thread Erschaffen
+2. Auf Loomio ein Vorschlag auf dem Thread Erstellen
 3. Über die Slack "Herrschaft"-Kanäle sehen die Baugartengenosseninnen den neuen Vorschlag an. Dazu schreiben sie darüber ihre Kommentaren.
 
 ###2. Schritt: Vorschlag bei Versammlung besprechen
