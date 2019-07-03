@@ -21,6 +21,7 @@ The moderator starts the meeting. He applies the following protocol and asks the
 3. The moderator explains which proposals will come into effect after their 2-week discussion period and which members they will launch.
 4. Discuss new suggestions. See "2nd Step: Discuss a Proposal at an Assembly" for a detailed minutes of discussion, in this case a new or current committee proposal. The moderator explains which proposals will come into effect after their 2-week discussion period and which members are bringing them to life.
 5. Check-Out. Each participant can briefly say something as a final word, for example, "I liked the speed of this meeting". 1 minute.
+6. Moderator Selection. The current moderator asks a different member to moderate the next gathering.
 
 ##Consensus-based decision-making
 ![Entscheidungsverfahren.png](Entscheidungsverfahren.png)
