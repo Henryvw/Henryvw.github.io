@@ -21,6 +21,7 @@ Der Moderator leitet die Versammlung. Er wendet das folgende Protokoll an und st
 3. **Alte Vorschläge mitteilen**. Der Moderator erklärt, welche Vorschläge nach ihrer 2-Wochen Diskussionszeit in Kraft treten und welche Mitglieder sie ins Leben rufen.
 4. **Neue Vorschläge besprechen.** Siehe "II. Konsens-basiertes Entscheidungsverfahren" für ein detailliertes Gesprächsprotokoll, für den Fall eines neuen oder laufenden Ausschussvorschlags.
 5. **Check Out.** Jeder Teilnehmer kann für circa 1 Minute kurz etwas als Schlusswort äußern.
+6. **Nächster Moderator Auswählen** Der aktuelle Moderator bittet einen Mitglieder, die nächste Versammlung zu moderieren.
  
 ##II. Konsens-basiertes Entscheidungsverfahren
 ![Entscheidungsverfahren.png](Entscheidungsverfahren.png)
