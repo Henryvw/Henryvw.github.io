@@ -24,7 +24,7 @@ we play the [“game” of truth-seeking](https://podscribe.app/feeds/http-joero
 
 We practice the [Principle of Charity](https://en.wikipedia.org/wiki/Principle_of_charity) in our exchanges: we interpret fellow member’s statements in their best, most reasonable form. We also practice and take inspiration from [Rapoport’s Rules of Argument](https://www.brainpickings.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/): before you rebut a criticism, reexpress your opponent’s position, list points of agreement and point out what you have learned.
 
-No matter how charitably or respectfully arguments are presented, entering this community also means that you might have your ideas and values challenged, criticized and attacked. “However true [your idea or value] may be, if it is not fully, frequently and fearlessly discussed, it will be held as a dead dogma, not a living truth.” 
+No matter how charitably or respectfully arguments are presented, entering this community also means that you might have your ideas and values challenged, criticized and attacked. “However true [your idea or value] may be, if it is not fully, frequently and fearlessly discussed, it will be held as a dead dogma, not a living truth.”<sup>4</sup>
 
 We value respect and politeness, but we value getting closer to the truth more. 
 
@@ -61,4 +61,6 @@ This Code of Conduct is a template for your community to practice discussion and
 
 <a name="myfootnote2">2</a>: This argument is made by [Eric Hoffer](https://www.amazon.com/gp/product/1933435097/ref=dbs_a_def_rwt_bibl_vppi_i3). Every thought is a reaction to something: a contrast. In a sense, a disagreement.
 
-<a name="myfootnote2">3</a>:Take as an example the way knowledge is created in the university system: a game is played in which via competition and institutionalized disconfirmation ideas are refined 
+<a name="myfootnote3">3</a>:Take as an example the way knowledge is created in the university system: a game is played in which via competition and institutionalized disconfirmation ideas are refined 
+
+<a name="myfootnote4">4</a>: [John Stuart Mill, _On Liberty_](https://indd.adobe.com/view/fe20936e-cc7c-46d7-ac5a-97d5f5c87d93). 
