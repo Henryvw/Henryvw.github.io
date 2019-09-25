@@ -5,11 +5,9 @@ _A template for groups that want to debate ideas freely and openly, have fun and
 Most human groups throughout history have lacked tolerance for criticism and the threat of new ideas. Communities like Plato’s Academy that are open to asking all questions are rare. This code of conduct is a continuation of this peculiar free-expression tradition.
 
 ##Preamble
-The beginning of thought is disagreement: Conflict is key to creating knowledge. Communities that nurture constructive disagreement, viewpoint diversity and open inquiry, thrive.
+The beginning of thought is disagreement: Conflict is key to creating knowledge. Communities that nurture constructive disagreement, viewpoint diversity and open inquiry, thrive. Disagreement, independent judgment, and the questioning of stubborn assumptions flourish in an environment of the greatest freedom.
 
 ![winds_of_free_discussion.png](winds_of_free_discussion.png)
- Disagreement, independent judgment, and the questioning of stubborn assumptions flourish in an environment of the greatest freedom.
-
 [Community] therefore guarantees all members the greatest freedom to think, speak, write, listen, challenge and learn. 
 
 ##Our Culture & Organization
