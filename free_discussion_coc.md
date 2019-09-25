@@ -7,8 +7,10 @@ Most human groups throughout history have lacked tolerance for criticism and the
 ##Preamble
 The beginning of thought is disagreement: Conflict is key to creating knowledge.<sup>2</sup> Communities that nurture constructive disagreement, [viewpoint diversity](https://righteousmind.com/viewpoint-diversity/) and open inquiry, thrive. Disagreement, independent judgment, and the questioning of stubborn assumptions flourish in an environment of the greatest freedom.<sup>3</sup>
 
-![winds_of_free_discussion.png](winds_of_free_discussion.png)
 [Community] therefore guarantees all members the greatest freedom to think, speak, write, listen, challenge and learn. 
+
+![winds_of_free_discussion.png](winds_of_free_discussion.png)
+
 
 ##Our Culture & Organization
 We organize ourselves neither as an autocracy of particular views, nor as a democracy. We are an [idea meritocracy](https://www.linkedin.com/pulse/key-bridgewaters-success-real-idea-meritocracy-ray-dalio). Through:
@@ -56,6 +58,11 @@ This Code of Conduct is a template for your community to practice discussion and
 		border-radius: 7px;
 	}
 </style>
+
+## License
+[![Creative Common License](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+This Code of Conduct is licensed under the **Creative Commons** Attribution-ShareAlike CC BY-SA License. This license lets you remix, tweak, and build upon this CoC even for commercial purposes, as long as you credit this page. Read more at the [Creative Commons page for this license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 <a name="myfootnote1">1</a>: Through wide-ranging, open-minded debate, the intellectual circle around Plato asked radical questions about, among other things, the nature of Greek society and politics. 
 
