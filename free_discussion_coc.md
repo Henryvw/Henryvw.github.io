@@ -71,3 +71,8 @@ This Code of Conduct is licensed under the **Creative Commons** Attribution-Shar
 <a name="myfootnote3">3</a>:Take as an example the way knowledge is created in the university system: a game is played in which via competition and institutionalized disconfirmation ideas are refined 
 
 <a name="myfootnote4">4</a>: [John Stuart Mill, _On Liberty_](https://indd.adobe.com/view/fe20936e-cc7c-46d7-ac5a-97d5f5c87d93). 
+
+<meta property="og:type"               content="article" />
+<meta property="og:title"              content="Free Discussion Code of Conduct" />
+<meta property="og:description"        content="A template for your community to practice discussion and argument in the powerful and peculiar free-expression tradition. From the Ancient Greeks to the Scientific Revolution, to your debates with buddies in high school, cultures that created a space for productive disagreement and conflict have driven people and projects forward." />
+<meta property="og:image"              content="https://henryvw.github.io/winds_of_free_discussion.png" />
