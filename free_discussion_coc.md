@@ -12,6 +12,7 @@ The beginning of thought is disagreement: Conflict is key to creating knowledge.
 
 ##Our Culture & Organization
 We organize ourselves neither as an autocracy of particular views, nor as a democracy. We are an [idea meritocracy](https://www.linkedin.com/pulse/key-bridgewaters-success-real-idea-meritocracy-ray-dalio). Through:
+
 - spirited conversation
 - thoughtful argument and constructive disagreement
 - contradiction, provocation and refutation 
